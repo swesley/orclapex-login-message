@@ -7,7 +7,6 @@ Script embedded into Oracle APEX Login Message to customise workspace login
 
 3) Apply code as the message, with preferred customisations
 
-![Updated workspace login][workspace_login.png]
+![alt text](https://github.com/swesley/orclapex-login-message/raw/master/workspace_login.png "Updated workspace login")
 
-Also see
-http://www.grassroots-oracle.com/2015/12/customising-apex-50-workspace-login.html
+Also see [Customising APEX Workspace Login](http://www.grassroots-oracle.com/2015/12/customising-apex-50-workspace-login.html)
